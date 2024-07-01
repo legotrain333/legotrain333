@@ -2,7 +2,7 @@
 - 👀 I’m interested in 3d Printing
 - 🌱 I’m currently learning Klipper
 - 💞️ I’m looking to collaborate on anythang
-- - 😄 Pronouns: He/Hime
+- 😄 Pronouns: He/Hime
 - ⚡ Fun fact: 3D Printing is older than Internet
 
 <!---
